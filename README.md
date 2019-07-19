@@ -4,7 +4,9 @@
 
 ## About ##
 
-The goal of __MCMCneuron__ is to find the most representative graph model for neuronal interactions vi Markov Chaim Monte Carlo.
+The goal of __MCMCneuron__ is to find the most representative graph model for neuronal interactions vi Markov Chain Monte Carlo.
+
+[https://brandimarte.github.io/coding/MCMC_Neuro.html](https://brandimarte.github.io/coding/MCMC_Neuro.html)
 
 ## Description ##
 
